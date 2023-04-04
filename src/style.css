@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+.board {
+  padding: 40px;
+  width: 35vw;
+  margin: 0 auto;
+}
